@@ -1,0 +1,3 @@
+D:/Devs/2023/c-exs/cmake-build-debug/CMakeFiles/c_exs.dir
+D:/Devs/2023/c-exs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Devs/2023/c-exs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
